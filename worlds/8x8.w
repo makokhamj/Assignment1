@@ -21,4 +21,5 @@ Beeper: (6, 6) 1
 Beeper: (7, 1) 1
 Beeper: (8, 1) 1
 Beeper: (8, 2) 1
+BeeperBag: 0
 Karel: (1, 1) eastSpeed: 0.25
